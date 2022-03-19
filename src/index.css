@@ -1,0 +1,13 @@
+body{
+    margin:0
+}
+
+.container{
+    margin-top:40px;
+    width:'500px';
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    
+}
